@@ -4,8 +4,14 @@
   "description": "TODO",
   "main": "index.js",
   "scripts": {
+    "start": "node .",
     "test": "npm test"
   },
   "author": "alexsander falcucci",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gh-got": "^8.1.0",
+    "got": "^9.6.0",
+    "lodash": "^4.17.11"
+  }
 }
