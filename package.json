@@ -1,0 +1,11 @@
+{
+  "name": "high-stack-users",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "alexsander falcucci",
+  "license": "MIT"
+}
